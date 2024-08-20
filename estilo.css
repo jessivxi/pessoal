@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(207, 90, 90);
+}
+
+.site{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    width: 30px;
+    height: 15%;
+    margin: 10px 0 10px 0;
+   
+
+
+}
+
+.img1 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 50%;
+   
+}
+
+.img2 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 50%;
+    
+}
+
+.img3 {
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    width: 50%;
+    
+}
+
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+    width: 500%;
+    height: 50px;
+}
+    
+
+    
